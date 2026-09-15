@@ -1,0 +1,9 @@
+{
+  "$schema": "../../specs/erc7730-v2.schema.json",
+  "includes": "common-AggregationRouterV6.json",
+  "context": {
+    "$id": "AggregationRouterV6",
+    "contract": { "deployments": [{ "chainId": 5042, "address": "0xE08CAb0828a67291EC4Af1FB3e7f867e206A6bdA" }] }
+  },
+  "metadata": { "contractName": "AggregationRouterV6" }
+}
